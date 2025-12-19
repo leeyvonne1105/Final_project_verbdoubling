@@ -1,2 +1,3 @@
-This project is based on this paper\  T[Mandarin verbdoublingasverb-phrasefronting by Jackie Yan-Ki Lai](https://www.researchgate.net/publication/386021091_Mandarin_verb_doubling_as_verb-phrase_fronting)\  
+This project is based on this paper  
+[Mandarin verbdoublingasverb-phrasefronting by Jackie Yan-Ki Lai](https://www.researchgate.net/publication/386021091_Mandarin_verb_doubling_as_verb-phrase_fronting)    
 However there are still many unsolved structure that I cannot come up with a solution...
