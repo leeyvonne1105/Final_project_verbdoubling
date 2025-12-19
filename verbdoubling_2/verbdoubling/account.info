@@ -1,0 +1,44 @@
+{
+    "debug": true,
+    "server": "https://api.droidtown.co",
+    "username": "leeyvonne1105@gmail.com",
+    "api_key": "3GNNxx6$qIXhK7Z*%KNa!QU&x#jzkKQ",
+    "version": "v280",
+    "loki_key": "P2BaXB&^!!NmRpMQRffc2ZSH*h=sFB^",
+    "loki_project": "verbdoubling",
+    "copytoaster_key": "",
+    "copytoaster_category": [],
+    "llm_prompt": {
+        "system": "You are an assistant.",
+        "assistant": "",
+        "user": "answer the question '{{INPUT}}' in Mandarin Chinese used in Taiwan.",
+        "resp_header": [
+            "我的資料庫沒有相關的資料，但網路資料顯示..."
+        ]
+    },
+    "chatbot_mode": false,
+    "chatbot_prompt": {
+        "verbdoubling_without_object": {
+            "prompt": {},
+            "document": {}
+        },
+        "verboriginal": {
+            "prompt": {},
+            "document": {}
+        },
+        "verbdoubling_le": {
+            "prompt": {},
+            "document": {}
+        },
+        "verbdoubling_movement": {
+            "prompt": {},
+            "document": {}
+        }
+    },
+    "utterance_count": {},
+    "utterance_feature": [
+        "verb",
+        "noun"
+    ],
+    "utterance_threshold": 0.4
+}
